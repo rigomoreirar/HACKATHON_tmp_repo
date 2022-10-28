@@ -1,0 +1,7 @@
+- Aprender un toque de lenguaje de señas.
+- Buscar DB con las señas que va a reconocer el modelo.
+- Modificar modelo para hacerlo más completo.
+- Entrenar modelo.
+- Subir nuevo modelo al bucket AWS.
+- Hacer IA que reconozco el input de TensorFlow.
+- Mejorar FrontEnd e integrar captions.
